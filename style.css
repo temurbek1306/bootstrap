@@ -1,0 +1,26 @@
+.password-wrapper{
+    position: relative
+}
+
+.show1{
+    position: absolute;
+    right: 3%;
+    bottom: 24%;
+}
+.hide1{
+    position: absolute;
+    right: 3%;
+    bottom: 24%;
+    display: none;
+}
+.show2{
+    position: absolute;
+    right: 3%;
+    bottom: 24%;
+}
+.hide2{
+    position: absolute;
+    right: 3%;
+    bottom: 24%;
+    display: none;
+}
